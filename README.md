@@ -1,2 +1,2 @@
-# Weather-App
+# Shopping List
 First project for portfolio 
